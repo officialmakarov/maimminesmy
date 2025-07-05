@@ -220,7 +220,6 @@ body {
 }
 
 .select-traps__content {
-  width: 400px;
   background-image: url(img/number.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -234,8 +233,8 @@ body {
 
 .select-traps__traps_amount {
   color: #f3f3f3;
-  font-size: 45px;
-  font-weight: 1200;
+  font-size: 40px;
+  font-weight: 900;
 }
 
 .select-traps__title {
